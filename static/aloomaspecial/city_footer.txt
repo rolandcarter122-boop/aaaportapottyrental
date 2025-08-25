@@ -1,0 +1,48 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What makes your service "AAA" compared to other companies?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It's our three-part commitment: A-grade equipment that is modern and meticulously maintained; A-grade service that is punctual, professional, and communicative; and an A-grade guarantee that the facility you rent will be delivered in exceptionally clean condition.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much advance notice is required to rent a porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For standard units, we can often accommodate requests with 24-48 hours' notice. For luxury restroom trailers or large orders for festivals, we recommend booking at least 2-4 weeks in advance, especially during peak season, to ensure availability.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> What is your cleaning and sanitization process between rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Every unit is taken out of service and undergoes a thorough, multi-point process. This includes pumping the tank, pressure washing the entire interior and exterior, sanitizing all high-touch surfaces with disinfectant, and then restocking it with fresh supplies.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you place a unit on a driveway? Is there a risk of damage?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we can place units on driveways. We are always careful during delivery and placement. However, for sensitive surfaces like decorative pavers, we recommend the client place a small tarp down first to be extra cautious, though issues are very rare.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> What is the most important piece of information you need from me when I call to book?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The most important information is the nature of the event or project and the number of people you expect. This allows us to immediately start guiding you toward the right type and number of units for your needs.</p>
+                <div class="callalooma mx-auto"><a href="tel:888341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
